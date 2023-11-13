@@ -1,7 +1,7 @@
 <div align="center">
     <br />
     <p>
-        <a href="amtixdev.xyz"><img src="https://cdn.discordapp.com/attachments/1141443355532873879/1173692642551402608/mybanner-o-x_1.png?ex=6564e174&is=65526c74&hm=4939339c5671e01c6cdd068fb581b1fe88bd9b1c8fe56142caa4f51953cc7237&" width="546" alt="discord-morse-code" /></a>
+        <a href="https://amtixdev.xyz"><img src="https://cdn.discordapp.com/attachments/1141443355532873879/1173692642551402608/mybanner-o-x_1.png?ex=6564e174&is=65526c74&hm=4939339c5671e01c6cdd068fb581b1fe88bd9b1c8fe56142caa4f51953cc7237&" width="546" alt="discord-morse-code" /></a>
     </p>
     <p>
     <a href="https://discord.gg/amtix-1k-1097821881245126768"><img src="https://img.shields.io/discord/1097821881245126768?color=5865F2&logo=discord&logoColor=white" alt="Discord server" /></a>
