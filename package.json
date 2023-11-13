@@ -1,0 +1,24 @@
+{
+  "name": "discord-morse-code",
+  "version": "1.1.0",
+  "description": "Discord Fun Morse Code For Discord Bots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmtixDev/discord-morse-code.git"
+  },
+  "keywords": [
+    "Discord",
+    "Morse",
+    "Code"
+  ],
+  "author": "AmtiXDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmtixDev/discord-morse-code/issues"
+  },
+  "homepage": "https://github.com/AmtixDev/discord-morse-code#readme"
+}
