@@ -26,7 +26,7 @@ npm install discord-morse-code
 ## How To Use Package
 
 ```js
-const { textToMorse, morseToText } = require('morse-code-converter');
+const { textToMorse, morseToText } = require('discord-morse-code');
 
 client.on('messageCreate', (message) => {
   if (message.author.bot) return; // Ignore messages from other bots
