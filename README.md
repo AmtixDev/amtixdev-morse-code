@@ -1,12 +1,12 @@
 <div align="center">
     <br />
     <p>
-        <a href="https://amtixdev.xyz"><img src="https://cdn.discordapp.com/attachments/1141443355532873879/1173692642551402608/mybanner-o-x_1.png?ex=6564e174&is=65526c74&hm=4939339c5671e01c6cdd068fb581b1fe88bd9b1c8fe56142caa4f51953cc7237&" width="546" alt="discord-morse-code" /></a>
+        <a href="https://amtixdev.xyz"><img src="https://cdn.discordapp.com/attachments/1141443355532873879/1173692642551402608/mybanner-o-x_1.png?ex=6564e174&is=65526c74&hm=4939339c5671e01c6cdd068fb581b1fe88bd9b1c8fe56142caa4f51953cc7237&" width="546" alt="amtixdev-morse-code" /></a>
     </p>
     <p>
     <a href="https://discord.gg/amtix-1k-1097821881245126768"><img src="https://img.shields.io/discord/1097821881245126768?color=5865F2&logo=discord&logoColor=white" alt="Discord server" /></a>
-    <a href="https://www.npmjs.com/package/discord-morse-code"><img src="https://img.shields.io/npm/v/discord-morse-code?maxAge=3600" alt="NPM version" /></a>
-    <a href="https://www.npmjs.com/package/discord-morse-code"><img src="https://img.shields.io/npm/dt/discord-morse-code?maxAge=3600" alt="NPM downloads" /></a>
+    <a href="https://www.npmjs.com/package/amtixdev-morse-code"><img src="https://img.shields.io/npm/v/amtixdev-morse-code?maxAge=3600" alt="NPM version" /></a>
+    <a href="https://www.npmjs.com/package/amtixdev-morse-code"><img src="https://img.shields.io/npm/dt/amtixdev-morse-code?maxAge=3600" alt="NPM downloads" /></a>
     </p>
   <p>
         <a href="https://amtixdev.xyz"><img src="https://media.discordapp.net/attachments/1132015920815014082/1133285475164094605/Powered_By_AmtiXDev_With_Color.png?width=159&height=33" alt="AmtiXDev" /></a>
@@ -15,18 +15,18 @@
 </div>
 
 
-# Examples/How Package discord-morse-code Work?
+# Examples/How Package amtixdev-morse-code Work?
 
 ## How To Install Package?
 
 ```js
-npm install discord-morse-code
+npm install amtixdev-morse-code
 ```
 
 ## How To Use Package
 
 ```js
-const { textToMorse, morseToText } = require('discord-morse-code');
+const { textToMorse, morseToText } = require('amtixdev-morse-code');
 
 client.on('messageCreate', (message) => {
   if (message.author.bot) return; // Ignore messages from other bots
