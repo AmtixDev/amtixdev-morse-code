@@ -9,7 +9,7 @@
     <a href="https://www.npmjs.com/package/amtixdev-morse-code"><img src="https://img.shields.io/npm/dt/amtixdev-morse-code?maxAge=3600" alt="NPM downloads" /></a>
     </p>
   <p>
-        <a href="https://amtixdev.xyz"><img src="https://media.discordapp.net/attachments/1132015920815014082/1133285475164094605/Powered_By_AmtiXDev_With_Color.png?width=159&height=33" alt="AmtiXDev" /></a>
+        <a href="https://amtixdev.xyz"><img src="https://cdn.discordapp.com/attachments/1148318536062742648/1180978797193990275/Powered_By_AmtiXDev_With_Color.png?ex=657f6336&is=656cee36&hm=0828041d09f451ead489b244b10099ba1bd97fa6becffdca1d8e2315ccb2df35&" alt="AmtiXDev" /></a>
     </p>
 
 </div>
